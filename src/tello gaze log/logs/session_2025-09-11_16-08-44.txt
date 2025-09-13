@@ -1,0 +1,9 @@
+[2025-09-11 16:08:44] == SESSION START ==
+[2025-09-11 16:08:44] [STARTUP] Battery: 27%
+[2025-09-11 16:08:47] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-11 16:08:50] [STREAM] streamon() + LIVE window opened (720x480)
+[2025-09-11 16:08:54] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi
+[2025-09-11 16:08:54] [REC] toggle → start
+[2025-09-11 16:08:57] [REC] recording stopped
+[2025-09-11 16:08:57] [REC] toggle → stop
+[2025-09-11 16:09:12] == SESSION END ==

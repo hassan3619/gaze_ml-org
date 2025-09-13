@@ -1,0 +1,40 @@
+[2025-09-10 13:26:58] == SESSION START ==
+[2025-09-10 13:26:59] [STARTUP] Battery: 60%
+[2025-09-10 13:27:19] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:27:46] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:27:56] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:27:57] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:28:01] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:28:47] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:28:48] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:28:52] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:08] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:13] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:16] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:17] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:21] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:23] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:26] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:29] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:31] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:36] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:39] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:41] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:42] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:29:43] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:47] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:29:51] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 13:29:52] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:29:53] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:29:56] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:03] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:04] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:06] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:08] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:23] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:25] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:26] [CMD] move_back ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:36] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:41] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:45] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 13:30:45] == SESSION END ==

@@ -1,0 +1,26 @@
+[2025-09-12 09:07:01] == SESSION START ==
+[2025-09-12 09:07:01] [STARTUP] Battery: 85%
+[2025-09-12 09:07:08] [STREAM] streamon() (display via Pygame @ 960x720)
+[2025-09-12 09:07:58] == TAKEOFF ==
+[2025-09-12 09:07:59] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 09:08:03] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 09:08:08] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:08:12] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:08:15] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:08:48] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:08:53] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:08:56] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-12 09:08:59] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-12 09:09:02] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:09:06] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:09:10] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:09:20] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-12 09:09:30] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:09:33] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-12 09:09:37] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:09:41] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:09:44] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:09:49] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 09:09:57] == LAND ==
+[2025-09-12 09:09:57] ✅ Landed (alt<=5cm).
+[2025-09-12 09:10:45] == SESSION END ==

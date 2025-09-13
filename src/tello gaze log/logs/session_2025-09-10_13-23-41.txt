@@ -1,0 +1,15 @@
+[2025-09-10 13:23:41] == SESSION START ==
+[2025-09-10 13:23:41] [STARTUP] Battery: 85%
+[2025-09-10 13:23:47] [STREAM] streamon() + LIVE window opened (720x480)
+[2025-09-10 13:24:39] == TAKEOFF ==
+[2025-09-10 13:24:39] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-10 13:24:52] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-10 13:24:56] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-10 13:24:59] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-10 13:25:03] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-10 13:25:07] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-10 13:25:11] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-10 13:25:15] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-10 13:25:18] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-10 13:25:21] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-10 13:25:27] == SESSION END ==

@@ -1,0 +1,21 @@
+[2025-09-11 15:52:44] == SESSION START ==
+[2025-09-11 15:52:45] [STARTUP] Battery: 63%
+[2025-09-11 15:52:49] [STREAM] ON + live window opened
+[2025-09-11 15:52:49] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi  (RGB)
+[2025-09-11 15:52:49] [REC] toggle → start
+[2025-09-11 15:52:53] [REC] recording stopped
+[2025-09-11 15:52:53] [REC] toggle → stop
+[2025-09-11 15:53:00] == TAKEOFF ==
+[2025-09-11 15:53:01] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-11 15:53:03] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-11 15:53:05] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 15:53:06] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Not joystick'
+[2025-09-11 15:53:06] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:53:09] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video1.avi  (RGB)
+[2025-09-11 15:53:09] [REC] toggle → start
+[2025-09-11 15:53:09] [REC] recording stopped
+[2025-09-11 15:53:09] [REC] toggle → stop
+[2025-09-11 15:53:10] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:53:38] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 15:53:39] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-11 15:53:41] == SESSION END ==

@@ -1,0 +1,4 @@
+[2025-09-10 13:37:54] == SESSION START ==
+[2025-09-10 13:37:54] [STARTUP] Battery: 77%
+[2025-09-10 13:38:04] [STREAM] streamon() + LIVE window opened (720x480)
+[2025-09-10 13:40:32] == SESSION END ==

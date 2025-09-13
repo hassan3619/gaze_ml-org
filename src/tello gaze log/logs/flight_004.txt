@@ -1,0 +1,8 @@
+[2025-09-12 09:54:43] == TAKEOFF ==
+[2025-09-12 09:54:44] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 09:54:44] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-12 09:54:47] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 09:54:47] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-12 09:54:50] [BLINK] Double → LAND (tracking altitude for touchdown)
+[2025-09-12 09:54:50] [CMD] error during 'toggle_takeoff_land': Command 'land' was unsuccessful for 4 tries. Latest response:	'error'
+[2025-09-12 09:54:50] [BLINK] Double → LAND (tracking altitude for touchdown)

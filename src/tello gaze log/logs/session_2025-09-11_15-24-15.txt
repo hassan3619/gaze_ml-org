@@ -1,0 +1,14 @@
+[2025-09-11 15:24:15] == SESSION START ==
+[2025-09-11 15:24:15] [STREAM] set_video_fps(30)
+[2025-09-11 15:24:15] [STARTUP] Battery: 88%
+[2025-09-11 15:24:17] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-11 15:24:20] [STREAM] ON + live window thread started
+[2025-09-11 15:24:36] [STREAM] OFF + live window closed
+[2025-09-11 15:24:36] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-11 15:24:40] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-11 15:24:43] [STREAM] ON + live window thread started
+[2025-09-11 15:24:46] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi  (RGB)
+[2025-09-11 15:24:46] [REC] toggle → start
+[2025-09-11 15:24:49] [REC] recording stopped
+[2025-09-11 15:24:49] [REC] toggle → stop
+[2025-09-11 15:25:03] == SESSION END ==

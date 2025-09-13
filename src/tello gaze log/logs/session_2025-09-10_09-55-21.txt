@@ -1,0 +1,22 @@
+[2025-09-10 09:55:21] == SESSION START ==
+[2025-09-10 09:55:21] [STARTUP] Battery: 89%
+[2025-09-10 09:55:25] [STREAM] streamon() + LIVE window opened (720x480)
+[2025-09-10 09:55:25] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi
+[2025-09-10 09:55:25] [REC] toggle → start
+[2025-09-10 09:55:28] [REC] recording stopped
+[2025-09-10 09:55:28] [REC] toggle → stop
+[2025-09-10 09:55:36] == TAKEOFF ==
+[2025-09-10 09:55:36] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video1.avi
+[2025-09-10 09:55:36] [REC] toggle → start
+[2025-09-10 09:55:36] [REC] recording stopped
+[2025-09-10 09:55:36] [REC] toggle → stop
+[2025-09-10 09:55:37] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:55:38] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:55:40] == LAND ==
+[2025-09-10 09:55:40] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video2.avi
+[2025-09-10 09:55:40] [REC] toggle → start
+[2025-09-10 09:56:11] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:56:12] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:56:13] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:56:14] [REC] recording stopped
+[2025-09-10 09:56:14] == SESSION END ==

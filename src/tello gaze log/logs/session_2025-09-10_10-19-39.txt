@@ -1,0 +1,22 @@
+[2025-09-10 10:19:39] == SESSION START ==
+[2025-09-10 10:19:39] [STARTUP] Battery: 71%
+[2025-09-10 10:19:39] [STARTUP] IMU validation OK.
+[2025-09-10 10:19:43] [IMU] Attitude unchanged > 3.0s → STALE.
+[2025-09-10 10:19:43] [IMU] Takeoff blocked due to IMU check failure.
+[2025-09-10 10:19:45] [IMU] Attitude unchanged > 3.0s → STALE.
+[2025-09-10 10:19:45] [IMU] Takeoff blocked due to IMU check failure.
+[2025-09-10 10:19:51] [STREAM] streamon() + LIVE window opened (720x480)
+[2025-09-10 10:20:13] == TAKEOFF ==
+[2025-09-10 10:20:19] [GAZE MOVE] up → rc=(0,0,40,0) for 0.80s
+[2025-09-10 10:20:21] [IMU] Attitude unchanged > 3.0s → STALE.
+[2025-09-10 10:20:21] [IMU] Gaze move blocked (IMU not OK).
+[2025-09-10 10:20:22] [IMU] Attitude unchanged > 3.0s → STALE.
+[2025-09-10 10:20:22] [IMU] Gaze move blocked (IMU not OK).
+[2025-09-10 10:20:24] [IMU] Attitude unchanged > 3.0s → STALE.
+[2025-09-10 10:20:24] [IMU] Gaze move blocked (IMU not OK).
+[2025-09-10 10:20:26] [IMU] Attitude unchanged > 3.0s → STALE.
+[2025-09-10 10:20:26] [IMU] Gaze move blocked (IMU not OK).
+[2025-09-10 10:20:28] [IMU] Attitude unchanged > 3.0s → STALE.
+[2025-09-10 10:20:28] [IMU] Gaze move blocked (IMU not OK).
+[2025-09-10 10:20:35] == LAND ==
+[2025-09-10 10:21:00] == SESSION END ==

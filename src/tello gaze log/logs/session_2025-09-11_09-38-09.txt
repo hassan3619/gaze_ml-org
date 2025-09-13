@@ -1,0 +1,135 @@
+[2025-09-11 09:38:09] == SESSION START ==
+[2025-09-11 09:38:09] [STARTUP] Battery: 60%
+[2025-09-11 09:38:11] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-11 09:38:16] [STREAM] streamon() + LIVE window opened (720x480)
+[2025-09-11 09:38:16] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi
+[2025-09-11 09:38:16] [REC] toggle → start
+[2025-09-11 09:38:30] == TAKEOFF ==
+[2025-09-11 09:38:30] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:38:32] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 09:38:35] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:38:38] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-11 09:38:40] [REC] recording stopped
+[2025-09-11 09:38:40] [REC] toggle → stop
+[2025-09-11 09:38:41] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:38:42] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-11 09:38:42] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:38:44] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-11 09:38:44] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:38:48] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video1.avi
+[2025-09-11 09:38:48] [REC] toggle → start
+[2025-09-11 09:38:48] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:39:00] [REC] recording stopped
+[2025-09-11 09:39:00] [REC] toggle → stop
+[2025-09-11 09:39:00] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:39:05] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:39:09] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 09:39:12] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:39:15] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:39:17] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:39:20] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:39:23] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:39:27] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:39:30] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:39:32] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:39:35] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:39:37] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:39:39] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video2.avi
+[2025-09-11 09:39:39] [REC] toggle → start
+[2025-09-11 09:39:39] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:39:42] [REC] recording stopped
+[2025-09-11 09:39:42] [REC] toggle → stop
+[2025-09-11 09:39:42] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:39:46] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:39:48] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 09:39:51] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:39:54] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:39:57] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:40:00] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:40:03] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:40:06] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:40:09] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 09:40:11] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:40:14] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:40:16] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:40:19] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 09:40:24] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 09:40:28] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:40:31] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 09:40:34] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:40:37] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:40:40] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:40:42] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video3.avi
+[2025-09-11 09:40:42] [REC] toggle → start
+[2025-09-11 09:40:44] [REC] recording stopped
+[2025-09-11 09:40:44] [REC] toggle → stop
+[2025-09-11 09:40:46] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video4.avi
+[2025-09-11 09:40:46] [REC] toggle → start
+[2025-09-11 09:40:49] [REC] recording stopped
+[2025-09-11 09:40:49] [REC] toggle → stop
+[2025-09-11 09:40:50] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video5.avi
+[2025-09-11 09:40:50] [REC] toggle → start
+[2025-09-11 09:40:53] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:40:59] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:41:03] [REC] recording stopped
+[2025-09-11 09:41:03] [REC] toggle → stop
+[2025-09-11 09:41:06] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:41:09] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video6.avi
+[2025-09-11 09:41:09] [REC] toggle → start
+[2025-09-11 09:41:09] [REC] recording stopped
+[2025-09-11 09:41:09] [REC] toggle → stop
+[2025-09-11 09:41:10] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:41:13] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-11 09:41:16] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video7.avi
+[2025-09-11 09:41:16] [REC] toggle → start
+[2025-09-11 09:41:16] [REC] recording stopped
+[2025-09-11 09:41:16] [REC] toggle → stop
+[2025-09-11 09:41:18] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:41:20] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video8.avi
+[2025-09-11 09:41:20] [REC] toggle → start
+[2025-09-11 09:41:21] [REC] recording stopped
+[2025-09-11 09:41:21] [REC] toggle → stop
+[2025-09-11 09:41:22] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video9.avi
+[2025-09-11 09:41:22] [REC] toggle → start
+[2025-09-11 09:41:22] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:41:24] [REC] recording stopped
+[2025-09-11 09:41:24] [REC] toggle → stop
+[2025-09-11 09:41:25] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video10.avi
+[2025-09-11 09:41:25] [REC] toggle → start
+[2025-09-11 09:41:28] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-11 09:41:31] [REC] recording stopped
+[2025-09-11 09:41:31] [REC] toggle → stop
+[2025-09-11 09:41:34] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-11 09:41:36] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video11.avi
+[2025-09-11 09:41:36] [REC] toggle → start
+[2025-09-11 09:41:39] [BLINK] Consecutive LEFT → move backward 30 cm (precision=OFF)
+[2025-09-11 09:41:43] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-11 09:41:46] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:41:50] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:41:53] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:41:56] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:41:59] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:42:01] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:42:05] [REC] recording stopped
+[2025-09-11 09:42:05] [REC] toggle → stop
+[2025-09-11 09:42:06] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:42:10] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:42:13] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video12.avi
+[2025-09-11 09:42:13] [REC] toggle → start
+[2025-09-11 09:42:13] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:42:16] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:42:18] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:42:21] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:42:24] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:42:26] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:42:28] [REC] recording stopped
+[2025-09-11 09:42:28] [REC] toggle → stop
+[2025-09-11 09:42:29] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:42:32] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:42:34] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video13.avi
+[2025-09-11 09:42:34] [REC] toggle → start
+[2025-09-11 09:42:40] == LAND ==
+[2025-09-11 09:42:40] ✅ Landed (alt<=5cm).
+[2025-09-11 09:42:40] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-11 09:42:45] [REC] recording stopped
+[2025-09-11 09:42:45] == SESSION END ==

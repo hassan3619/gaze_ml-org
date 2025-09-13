@@ -1,0 +1,21 @@
+[2025-09-10 09:10:41] == SESSION START ==
+[2025-09-10 09:10:46] [STREAM] streamon() + LIVE window opened
+[2025-09-10 09:10:46] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi
+[2025-09-10 09:10:46] [REC] toggle → start
+[2025-09-10 09:10:46] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:10:47] [REC] recording stopped
+[2025-09-10 09:10:47] [REC] toggle → stop
+[2025-09-10 09:10:54] == TAKEOFF ==
+[2025-09-10 09:10:54] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video1.avi
+[2025-09-10 09:10:54] [REC] toggle → start
+[2025-09-10 09:10:55] [REC] recording stopped
+[2025-09-10 09:10:55] [REC] toggle → stop
+[2025-09-10 09:10:58] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video2.avi
+[2025-09-10 09:10:58] [REC] toggle → start
+[2025-09-10 09:10:59] [REC] recording stopped
+[2025-09-10 09:10:59] [REC] toggle → stop
+[2025-09-10 09:11:01] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video3.avi
+[2025-09-10 09:11:01] [REC] toggle → start
+[2025-09-10 09:11:06] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:11:07] [REC] recording stopped
+[2025-09-10 09:11:10] == SESSION END ==

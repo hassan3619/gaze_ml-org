@@ -1,0 +1,4 @@
+[2025-09-11 16:06:28] == SESSION START ==
+[2025-09-11 16:06:29] [STARTUP] Battery: 35%
+[2025-09-11 16:06:31] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-11 16:06:34] [STREAM] ON + live window thread started

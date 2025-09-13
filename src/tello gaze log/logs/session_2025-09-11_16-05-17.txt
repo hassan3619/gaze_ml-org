@@ -1,0 +1,7 @@
+[2025-09-11 16:05:17] == SESSION START ==
+[2025-09-11 16:05:18] [STARTUP] Battery: 41%
+[2025-09-11 16:05:22] [STREAM] ON + live window thread started
+[2025-09-11 16:05:22] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi  (RGB)
+[2025-09-11 16:05:22] [REC] toggle → start
+[2025-09-11 16:05:32] [REC] recording stopped
+[2025-09-11 16:05:34] == SESSION END ==

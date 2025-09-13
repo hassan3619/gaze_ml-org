@@ -1,0 +1,62 @@
+[2025-09-11 15:45:39] == SESSION START ==
+[2025-09-11 15:45:41] [STARTUP] Battery: 83%
+[2025-09-11 15:45:43] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-11 15:45:45] [STREAM] ON + live window opened
+[2025-09-11 15:46:00] == TAKEOFF ==
+[2025-09-11 15:46:00] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:46:02] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video1.avi  (RGB)
+[2025-09-11 15:46:02] [REC] toggle → start
+[2025-09-11 15:46:02] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 15:46:04] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-11 15:46:04] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 15:46:07] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 15:46:09] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 15:46:12] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:46:15] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:46:17] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:46:20] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 15:46:23] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:46:26] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:46:29] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:46:33] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:46:35] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 15:46:38] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:46:41] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:46:48] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 15:46:51] [REC] recording stopped
+[2025-09-11 15:46:51] [REC] toggle → stop
+[2025-09-11 15:46:53] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 15:46:58] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 15:47:02] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:47:05] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:47:08] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 15:47:11] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:47:15] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:47:18] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:47:21] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:47:24] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:47:26] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 15:47:30] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 15:47:33] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 15:47:36] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video2.avi  (RGB)
+[2025-09-11 15:47:36] [REC] toggle → start
+[2025-09-11 15:47:40] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 15:47:44] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:47:48] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 15:47:51] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:47:55] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 15:47:59] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 15:48:03] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 15:48:06] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 15:48:12] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 15:48:18] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 15:48:23] [BLINK] Consecutive LEFT → move backward 30 cm (precision=OFF)
+[2025-09-11 15:48:24] [CMD] error during 'move_back': Command 'back 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-11 15:48:27] [REC] recording stopped
+[2025-09-11 15:48:27] [REC] toggle → stop
+[2025-09-11 15:48:33] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video3.avi  (RGB)
+[2025-09-11 15:48:33] [REC] toggle → start
+[2025-09-11 15:48:33] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 15:48:34] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-11 15:48:43] [REC] recording stopped
+[2025-09-11 15:48:44] == SESSION END ==

@@ -1,0 +1,48 @@
+[2025-09-10 09:07:36] == SESSION START ==
+[2025-09-10 09:07:45] == TAKEOFF ==
+[2025-09-10 09:07:47] [STREAM] streamon() + LIVE window opened
+[2025-09-10 09:07:47] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video1.avi
+[2025-09-10 09:07:47] [REC] toggle → start
+[2025-09-10 09:07:47] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:07:48] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:07:48] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:07:50] [BLINK] Consecutive RIGHT → move forward 30 cm
+[2025-09-10 09:07:52] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:07:53] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:07:56] [BLINK] Consecutive RIGHT → move forward 30 cm
+[2025-09-10 09:07:58] [REC] recording stopped
+[2025-09-10 09:07:58] [REC] toggle → stop
+[2025-09-10 09:07:58] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:07:59] [BLINK] Consecutive LEFT → move backward 30 cm
+[2025-09-10 09:08:01] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:08:02] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video2.avi
+[2025-09-10 09:08:02] [REC] toggle → start
+[2025-09-10 09:08:04] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:08:10] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:08:16] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:08:18] [BLINK] Consecutive RIGHT → move forward 30 cm
+[2025-09-10 09:08:22] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:08:27] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:08:32] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:08:34] [BLINK] Consecutive LEFT → move backward 30 cm
+[2025-09-10 09:08:36] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:08:40] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:08:43] [BLINK] Consecutive LEFT → move backward 30 cm
+[2025-09-10 09:08:45] [REC] recording stopped
+[2025-09-10 09:08:45] [REC] toggle → stop
+[2025-09-10 09:08:50] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video3.avi
+[2025-09-10 09:08:50] [REC] toggle → start
+[2025-09-10 09:09:01] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:09:02] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error Auto land'
+[2025-09-10 09:09:03] [REC] recording stopped
+[2025-09-10 09:09:03] [REC] toggle → stop
+[2025-09-10 09:09:04] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:09:04] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Auto land'
+[2025-09-10 09:09:08] == LAND ==
+[2025-09-10 09:09:08] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:09:08] [CMD] move_back ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:09:08] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video4.avi
+[2025-09-10 09:09:08] [REC] toggle → start
+[2025-09-10 09:09:08] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:09:23] [REC] recording stopped
+[2025-09-10 09:09:23] == SESSION END ==

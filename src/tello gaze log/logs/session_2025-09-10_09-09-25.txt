@@ -1,0 +1,6 @@
+[2025-09-10 09:09:25] == SESSION START ==
+[2025-09-10 09:09:27] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 09:09:28] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:09:29] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:09:30] [CMD] move_forward ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:09:36] == SESSION END ==

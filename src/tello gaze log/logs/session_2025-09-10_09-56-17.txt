@@ -1,0 +1,26 @@
+[2025-09-10 09:56:17] == SESSION START ==
+[2025-09-10 09:56:17] [STARTUP] Battery: 84%
+[2025-09-10 09:56:29] == TAKEOFF ==
+[2025-09-10 09:56:31] [STREAM] streamon() + LIVE window opened (720x480)
+[2025-09-10 09:56:31] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video1.avi
+[2025-09-10 09:56:31] [REC] toggle → start
+[2025-09-10 09:56:32] [REC] recording stopped
+[2025-09-10 09:56:32] [REC] toggle → stop
+[2025-09-10 09:56:32] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:56:33] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video2.avi
+[2025-09-10 09:56:33] [REC] toggle → start
+[2025-09-10 09:56:33] [REC] recording stopped
+[2025-09-10 09:56:33] [REC] toggle → stop
+[2025-09-10 09:56:33] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:56:35] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:56:36] [BLINK] Consecutive RIGHT → move forward 30 cm
+[2025-09-10 09:56:37] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:56:37] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:56:39] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:56:39] [BLINK] Consecutive RIGHT → move forward 30 cm
+[2025-09-10 09:56:41] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:56:49] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:56:49] [BLINK] Consecutive RIGHT → move forward 30 cm
+[2025-09-10 09:56:51] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:56:51] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:56:52] == SESSION END ==

@@ -1,0 +1,10 @@
+[2025-09-12 09:52:40] == SESSION START ==
+[2025-09-12 09:52:40] [STARTUP] Battery: 90%
+[2025-09-12 09:52:45] [STREAM] streamon() (display via Pygame @ 960x720)
+[2025-09-12 09:52:45] [BLINK] Double → TAKEOFF
+[2025-09-12 09:52:55] == TAKEOFF ==
+[2025-09-12 09:52:55] [BLINK] Double → LAND (tracking altitude for touchdown)
+[2025-09-12 09:52:57] == LAND ==
+[2025-09-12 09:52:57] ✅ Landed (alt<=5cm).
+[2025-09-12 09:52:58] [REC] stop ignored — not recording.
+[2025-09-12 09:53:00] == SESSION END ==

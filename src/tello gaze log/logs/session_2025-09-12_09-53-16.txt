@@ -1,0 +1,38 @@
+[2025-09-12 09:53:16] == SESSION START ==
+[2025-09-12 09:53:16] [STARTUP] Battery: 89%
+[2025-09-12 09:53:18] [BLINK] Double → TAKEOFF
+[2025-09-12 09:53:23] == TAKEOFF ==
+[2025-09-12 09:53:26] [STREAM] streamon() (display via Pygame @ 960x720)
+[2025-09-12 09:53:28] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:53:31] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 09:53:35] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:53:38] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:53:41] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 09:53:44] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-12 09:53:47] [BLINK] Double → LAND (tracking altitude for touchdown)
+[2025-09-12 09:53:50] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 09:53:51] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-12 09:53:51] == LAND ==
+[2025-09-12 09:53:51] ✅ Landed (alt<=5cm).
+[2025-09-12 09:53:51] [BLINK] Double → TAKEOFF
+[2025-09-12 09:53:58] == TAKEOFF ==
+[2025-09-12 09:53:58] [BLINK] Double → LAND (tracking altitude for touchdown)
+[2025-09-12 09:54:04] == LAND ==
+[2025-09-12 09:54:04] ✅ Landed (alt<=5cm).
+[2025-09-12 09:54:06] [BLINK] Double → TAKEOFF
+[2025-09-12 09:54:06] [CMD] error during 'toggle_takeoff_land': Command 'takeoff' was unsuccessful for 4 tries. Latest response:	'error'
+[2025-09-12 09:54:11] [BLINK] Double → TAKEOFF
+[2025-09-12 09:54:17] == TAKEOFF ==
+[2025-09-12 09:54:18] [BLINK] Double → LAND (tracking altitude for touchdown)
+[2025-09-12 09:54:24] == LAND ==
+[2025-09-12 09:54:24] ✅ Landed (alt<=5cm).
+[2025-09-12 09:54:40] [BLINK] Double → TAKEOFF
+[2025-09-12 09:54:43] == TAKEOFF ==
+[2025-09-12 09:54:44] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 09:54:44] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-12 09:54:47] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 09:54:47] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-12 09:54:50] [BLINK] Double → LAND (tracking altitude for touchdown)
+[2025-09-12 09:54:50] [CMD] error during 'toggle_takeoff_land': Command 'land' was unsuccessful for 4 tries. Latest response:	'error'
+[2025-09-12 09:54:50] [BLINK] Double → LAND (tracking altitude for touchdown)
+[2025-09-12 09:54:51] == SESSION END ==

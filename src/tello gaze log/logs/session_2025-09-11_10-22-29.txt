@@ -1,0 +1,30 @@
+[2025-09-11 10:22:29] == SESSION START ==
+[2025-09-11 10:22:29] [STARTUP] Battery: 54%
+[2025-09-11 10:22:37] [STREAM] streamon() + LIVE window opened (720x480)
+[2025-09-11 10:22:37] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi
+[2025-09-11 10:22:37] [REC] toggle → start
+[2025-09-11 10:22:37] [REC] recording stopped
+[2025-09-11 10:22:37] [REC] toggle → stop
+[2025-09-11 10:22:52] == TAKEOFF ==
+[2025-09-11 10:22:52] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video1.avi
+[2025-09-11 10:22:52] [REC] toggle → start
+[2025-09-11 10:22:53] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 10:22:58] [REC] recording stopped
+[2025-09-11 10:22:58] [REC] toggle → stop
+[2025-09-11 10:23:00] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video2.avi
+[2025-09-11 10:23:00] [REC] toggle → start
+[2025-09-11 10:23:03] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 10:23:08] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 10:23:10] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 10:23:13] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 10:23:17] [REC] recording stopped
+[2025-09-11 10:23:17] [REC] toggle → stop
+[2025-09-11 10:23:17] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 10:23:23] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 10:23:25] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 10:23:32] == LAND ==
+[2025-09-11 10:23:32] ✅ Landed (alt<=5cm).
+[2025-09-11 10:23:48] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video3.avi
+[2025-09-11 10:23:48] [REC] toggle → start
+[2025-09-11 10:23:50] [REC] recording stopped
+[2025-09-11 10:23:50] == SESSION END ==

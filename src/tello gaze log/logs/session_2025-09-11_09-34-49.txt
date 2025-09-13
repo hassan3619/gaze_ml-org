@@ -1,0 +1,71 @@
+[2025-09-11 09:34:49] == SESSION START ==
+[2025-09-11 09:34:49] [STARTUP] Battery: 86%
+[2025-09-11 09:34:58] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-11 09:35:10] [STREAM] streamon() + LIVE window opened (720x480)
+[2025-09-11 09:35:10] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi
+[2025-09-11 09:35:10] [REC] toggle → start
+[2025-09-11 09:35:10] [REC] recording stopped
+[2025-09-11 09:35:10] [REC] toggle → stop
+[2025-09-11 09:35:20] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video2.avi
+[2025-09-11 09:35:20] [REC] toggle → start
+[2025-09-11 09:35:24] [REC] recording stopped
+[2025-09-11 09:35:24] [REC] toggle → stop
+[2025-09-11 09:35:31] == TAKEOFF ==
+[2025-09-11 09:35:31] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video1.avi
+[2025-09-11 09:35:31] [REC] toggle → start
+[2025-09-11 09:35:35] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-11 09:35:38] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error Not joystick'
+[2025-09-11 09:35:39] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:35:42] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:35:47] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:35:50] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:35:53] [REC] recording stopped
+[2025-09-11 09:35:53] [REC] toggle → stop
+[2025-09-11 09:35:56] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-11 09:35:58] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-11 09:35:59] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video2.avi
+[2025-09-11 09:35:59] [REC] toggle → start
+[2025-09-11 09:36:00] [REC] recording stopped
+[2025-09-11 09:36:00] [REC] toggle → stop
+[2025-09-11 09:36:01] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:36:02] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-11 09:36:02] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-11 09:36:03] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-11 09:36:11] == LAND ==
+[2025-09-11 09:36:11] ✅ Landed (alt<=5cm).
+[2025-09-11 09:36:41] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-11 09:36:42] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-11 09:36:46] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video3.avi
+[2025-09-11 09:36:46] [REC] toggle → start
+[2025-09-11 09:37:00] == TAKEOFF ==
+[2025-09-11 09:37:00] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:37:03] [REC] recording stopped
+[2025-09-11 09:37:03] [REC] toggle → stop
+[2025-09-11 09:37:03] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:37:05] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:37:08] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:37:10] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-11 09:37:13] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:37:18] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:37:22] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:37:25] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_002/video1.avi
+[2025-09-11 09:37:25] [REC] toggle → start
+[2025-09-11 09:37:26] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-11 09:37:29] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:37:31] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:37:34] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:37:38] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-11 09:37:40] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-11 09:37:43] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-11 09:37:46] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:37:49] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-11 09:37:51] [REC] recording stopped
+[2025-09-11 09:37:51] [REC] toggle → stop
+[2025-09-11 09:37:54] == LAND ==
+[2025-09-11 09:37:54] ✅ Landed (alt<=5cm).
+[2025-09-11 09:37:55] [CMD] move_back ignored (drone not flying). Press 't' to take off.
+[2025-09-11 09:37:58] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-11 09:38:04] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-11 09:38:04] [CMD] move_forward ignored (drone not flying). Press 't' to take off.
+[2025-09-11 09:38:06] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-11 09:38:06] == SESSION END ==

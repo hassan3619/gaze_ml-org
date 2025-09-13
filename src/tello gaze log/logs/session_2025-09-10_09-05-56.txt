@@ -1,0 +1,56 @@
+[2025-09-10 09:05:56] == SESSION START ==
+[2025-09-10 09:06:00] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-10 09:06:02] [STREAM] streamon() + LIVE window opened
+[2025-09-10 09:06:08] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:06:10] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:06:21] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-10 09:06:21] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi
+[2025-09-10 09:06:21] [REC] toggle → start
+[2025-09-10 09:06:26] [REC] recording stopped
+[2025-09-10 09:06:26] [REC] toggle → stop
+[2025-09-10 09:06:31] == TAKEOFF ==
+[2025-09-10 09:06:32] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video1.avi
+[2025-09-10 09:06:32] [REC] toggle → start
+[2025-09-10 09:06:33] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:06:35] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:06:35] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:06:37] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:06:37] [BLINK] Consecutive LEFT → move backward 30 cm
+[2025-09-10 09:06:37] [CMD] error during 'move_back': Command 'back 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:06:37] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:06:38] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:06:38] [BLINK] Consecutive LEFT → move backward 30 cm
+[2025-09-10 09:06:39] [CMD] error during 'move_back': Command 'back 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:06:39] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:06:40] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:06:40] [REC] recording stopped
+[2025-09-10 09:06:40] [REC] toggle → stop
+[2025-09-10 09:06:40] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:06:41] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:06:48] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:06:49] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:06:49] [BLINK] Consecutive LEFT → move backward 30 cm
+[2025-09-10 09:06:50] [CMD] error during 'move_back': Command 'back 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:06:50] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:06:51] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:06:54] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:06:54] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-10 09:07:03] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:07:04] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:07:05] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:07:06] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-10 09:07:09] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_001/video2.avi
+[2025-09-10 09:07:09] [REC] toggle → start
+[2025-09-10 09:07:16] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:07:16] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-10 09:07:16] [BLINK] Left blink → rotate CCW 45°
+[2025-09-10 09:07:16] [CMD] error during 'rotate': Command 'ccw 45' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-10 09:07:16] [BLINK] Consecutive LEFT → move backward 30 cm
+[2025-09-10 09:07:17] [CMD] error during 'move_back': Command 'back 30' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-10 09:07:17] [REC] recording stopped
+[2025-09-10 09:07:17] [REC] toggle → stop
+[2025-09-10 09:07:21] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:07:21] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-10 09:07:28] [BLINK] Right blink → rotate CW 45°
+[2025-09-10 09:07:28] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Motor stop'
+[2025-09-10 09:07:30] == SESSION END ==

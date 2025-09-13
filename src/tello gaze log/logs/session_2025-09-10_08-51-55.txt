@@ -1,0 +1,18 @@
+[2025-09-10 08:51:55] == SESSION START ==
+[2025-09-10 08:52:05] == TAKEOFF ==
+[2025-09-10 08:52:05] [STREAM] streamon() requested by key 'm'
+[2025-09-10 08:52:09] [GAZE MOVE] center → rc=(0,0,0,0) for 0.80s
+[2025-09-10 08:52:12] [GAZE MOVE] center → rc=(0,0,0,0) for 0.80s
+[2025-09-10 08:52:14] [GAZE MOVE] center → rc=(0,0,0,0) for 0.80s
+[2025-09-10 08:52:16] [GAZE MOVE] center → rc=(0,0,0,0) for 0.80s
+[2025-09-10 08:52:17] [GAZE MOVE] left → rc=(-40,0,0,0) for 0.80s
+[2025-09-10 08:52:19] [GAZE MOVE] center → rc=(0,0,0,0) for 0.80s
+[2025-09-10 08:52:21] [GAZE MOVE] left → rc=(-40,0,0,0) for 0.80s
+[2025-09-10 08:52:22] [GAZE MOVE] right → rc=(40,0,0,0) for 0.80s
+[2025-09-10 08:52:24] [GAZE MOVE] right → rc=(40,0,0,0) for 0.80s
+[2025-09-10 08:52:26] [GAZE MOVE] right → rc=(40,0,0,0) for 0.80s
+[2025-09-10 08:52:30] [GAZE MOVE] up → rc=(0,0,40,0) for 0.80s
+[2025-09-10 08:52:32] [GAZE MOVE] up → rc=(0,0,40,0) for 0.80s
+[2025-09-10 08:52:34] [GAZE MOVE] up → rc=(0,0,40,0) for 0.80s
+[2025-09-10 08:52:36] [GAZE MOVE] up → rc=(0,0,40,0) for 0.80s
+[2025-09-10 08:52:58] == SESSION END ==

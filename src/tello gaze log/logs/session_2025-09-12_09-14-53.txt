@@ -1,0 +1,27 @@
+[2025-09-12 09:14:53] == SESSION START ==
+[2025-09-12 09:14:53] [STARTUP] Battery: 63%
+[2025-09-12 09:14:56] [REC] toggle ignored — streaming is OFF (press 'm' first).
+[2025-09-12 09:15:00] [STREAM] streamon() (display via Pygame @ 960x720)
+[2025-09-12 09:15:03] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-12 09:15:07] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-12 09:15:09] [CMD] move_forward ignored (drone not flying). Press 't' to take off.
+[2025-09-12 09:15:12] [CMD] move_back ignored (drone not flying). Press 't' to take off.
+[2025-09-12 09:15:13] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video1.avi
+[2025-09-12 09:15:13] [REC] toggle → start
+[2025-09-12 09:15:15] [REC] recording stopped
+[2025-09-12 09:15:15] [REC] toggle → stop
+[2025-09-12 09:15:18] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video2.avi
+[2025-09-12 09:15:18] [REC] toggle → start
+[2025-09-12 09:15:21] [REC] recording stopped
+[2025-09-12 09:15:21] [REC] toggle → stop
+[2025-09-12 09:15:25] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-12 09:15:28] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-12 09:15:31] [CMD] rotate ignored (drone not flying). Press 't' to take off.
+[2025-09-12 09:15:34] [CMD] move_forward ignored (drone not flying). Press 't' to take off.
+[2025-09-12 09:15:36] [CMD] move_back ignored (drone not flying). Press 't' to take off.
+[2025-09-12 09:15:38] [REC] recording → /media/hn_97/VOLUME G/GazeML-org/src/tello gaze log/videos/flight_000/video3.avi
+[2025-09-12 09:15:38] [REC] toggle → start
+[2025-09-12 09:15:40] [CMD] move_forward ignored (drone not flying). Press 't' to take off.
+[2025-09-12 09:15:45] [REC] recording stopped
+[2025-09-12 09:15:45] [REC] toggle → stop
+[2025-09-12 09:15:49] == SESSION END ==

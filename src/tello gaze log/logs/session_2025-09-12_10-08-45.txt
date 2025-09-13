@@ -1,0 +1,34 @@
+[2025-09-12 10:08:45] == SESSION START ==
+[2025-09-12 10:08:45] [STARTUP] Battery: 79%
+[2025-09-12 10:08:50] [STREAM] streamon() (display via Pygame @ 960x720)
+[2025-09-12 10:08:56] [BLINK] Double x2 → TAKEOFF
+[2025-09-12 10:08:57] == TAKEOFF ==
+[2025-09-12 10:09:02] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-12 10:09:04] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:09:05] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:09:07] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error Not joystick'
+[2025-09-12 10:09:07] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:09:14] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-12 10:09:14] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:09:15] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-12 10:09:15] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:09:16] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-12 10:09:25] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-12 10:09:28] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 10:09:30] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 10:09:33] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 10:09:36] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 10:09:39] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 10:09:42] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 10:09:45] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:09:48] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:09:51] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-12 10:09:51] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:09:51] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-12 10:09:51] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:09:52] [CMD] error during 'move_forward': Command 'forward 30' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-12 10:09:52] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:10:00] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-12 10:10:02] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 10:10:04] [GAZE MOVE] center (precision=OFF) → rc(0, 0, 0, 0) ramped over 0.80s
+[2025-09-12 10:10:16] == SESSION END ==

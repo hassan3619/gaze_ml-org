@@ -1,0 +1,2 @@
+Looking in indexes: https://pypi.org/simple, https://pypi.ngc.nvidia.com
+Requirement already satisfied: protobuf in /home/hn_97/anaconda3/envs/gaze_gui/lib/python3.11/site-packages (4.25.8)

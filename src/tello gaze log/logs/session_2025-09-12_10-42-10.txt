@@ -1,0 +1,40 @@
+[2025-09-12 10:42:10] == SESSION START ==
+[2025-09-12 10:42:10] [STARTUP] Battery: 88%
+[2025-09-12 10:42:19] [STREAM] streamon() (display via Pygame @ 960x720)
+[2025-09-12 10:42:22] [BLINK] Double x2 → TAKEOFF
+[2025-09-12 10:42:23] == TAKEOFF ==
+[2025-09-12 10:42:38] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-12 10:42:39] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:42:42] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:42:48] [BLINK] Consecutive LEFT → move backward 30 cm (precision=OFF)
+[2025-09-12 10:42:54] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:42:58] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-12 10:43:02] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 10:43:06] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 10:43:11] [GAZE MOVE] left (precision=OFF) → rc(-40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 10:43:17] [GAZE MOVE] right (precision=OFF) → rc(40, 0, 0, 0) ramped over 0.80s
+[2025-09-12 10:43:22] [GAZE MOVE] down (precision=OFF) → rc(0, 0, -40, 0) ramped over 0.80s
+[2025-09-12 10:43:29] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:43:32] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:43:34] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:43:39] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:43:41] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-12 10:43:44] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-12 10:43:47] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-12 10:43:49] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:43:53] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 10:43:56] [GAZE MOVE] up (precision=OFF) → rc(0, 0, 40, 0) ramped over 0.80s
+[2025-09-12 10:44:04] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:44:07] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:44:11] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:44:15] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:44:18] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:44:24] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-12 10:44:29] [BLINK] Left → rotate CCW 45° (precision=OFF)
+[2025-09-12 10:44:33] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:44:37] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:44:42] [BLINK] Consecutive RIGHT → move forward 30 cm (precision=OFF)
+[2025-09-12 10:44:51] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:44:52] [CMD] error during 'rotate': Command 'cw 45' was unsuccessful for 4 tries. Latest response:	'error No valid imu'
+[2025-09-12 10:45:08] [BLINK] Right → rotate CW 45° (precision=OFF)
+[2025-09-12 10:45:14] == SESSION END ==
